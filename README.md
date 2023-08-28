@@ -1,3 +1,3 @@
 # Major-Project
-<h1>Hosted lInk</h1>
+<h1>Hosted link</h1>
 https://jaitensahu.github.io/Major-Project/
