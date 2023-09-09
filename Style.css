@@ -248,6 +248,7 @@ ul {
   display: flex;
   margin: 130px 0 0 0;
   justify-content: space-between;
+  gap: 6%;
 }
 
 .intro-item {
@@ -616,6 +617,7 @@ ul {
 .nav-content .service2-nav {
   gap: 8px;
   display: flex;
+  align-items: center;
 }
 
 .service3 p {
